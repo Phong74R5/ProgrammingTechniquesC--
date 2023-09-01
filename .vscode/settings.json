@@ -1,0 +1,21 @@
+{
+  // "python.terminal.activateEnvironment": false,
+  "files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "array": "cpp",
+    "string": "cpp"
+  },
+  "terminal.integrated.shell.window": "C://WINDOWS//System32//cmd.exe",
+  "C_Cpp.errorSquiggles": "disabled",
+  // "powermode.enabled": true,
+  // "powermode.shake.enabled": false,
+  // "powermode.explosions.customExplosions": [
+  //   "https://media.giphy.com/media/SV0LuYdSMmKEklpZKs/giphy.gif"
+  // ],
+  // "powermode.explosions.backgroundMode": "image",
+  // "powermode.explosions.size": 4,
+  // "powermode.explosions.duration": 1200,
+  // "powermode.explosions.maxExplosions": 1,
+  // "powermode.explosions.frequency": 6
+}
